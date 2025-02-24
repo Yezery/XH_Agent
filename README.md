@@ -6,19 +6,13 @@
 <h3 align="center">
     广州新华学院实验报告编写工具  省时、智能、规范!
 </h3>
-
-
 <p align="center">
   <a href="http://www.zivye.asia/"><strong>网站</strong></a> •
   <a href="https://github.com/Yezery/XH_Agent"><strong>项目仓库</strong></a>
 </p>
-|          |                                                              |
-| -------- | ------------------------------------------------------------ |
-| 开发版本 | [![PyPI - Version](https://img.shields.io/pypi/v/kiln-ai.svg?logo=pypi&label=PyPI&logoColor=gold)](https://pypi.org/project/kiln-ai/) [![PyPI - Python Version](https://img.shields.io/pypi/pyversions/kiln-ai.svg?logo=python&label=Python&logoColor=gold)](https://pypi.org/project/kiln-ai/) |
-| 技术栈   | [![uv](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/astral-sh/uv/main/assets/badge/v0.json)](https://github.com/astral-sh/uv) <img alt="vue3" src="https://img.shields.io/badge/-Vue3-6DB33F?style=flat-square&logo=vuedotjs&logoColor=white" /><img alt="tailwind" src="https://img.shields.io/badge/-Tailwindcss-00BFFF?style=flat-square&logo=Tailwindcss&logoColor=white" /><img alt="fastapi" src="https://img.shields.io/badge/-FastAPI-6DB33F?style=flat-square&logo=fastapi&logoColor=white" /> |
-| 平台     | [![MacOS](https://img.shields.io/badge/MacOS-black?logo=apple)](https://github.com/Kiln-AI/Kiln/releases/latest) [![Windows](https://img.shields.io/badge/Windows-0067b8.svg?logo=data:image/svg%2bxml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4KPHN2ZyBmaWxsPSIjZmZmIiB2aWV3Qm94PSIwIDAgMzIgMzIiIHZlcnNpb249IjEuMSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTE2Ljc0MiAxNi43NDJ2MTQuMjUzaDE0LjI1M3YtMTQuMjUzek0xLjAwNCAxNi43NDJ2MTQuMjUzaDE0LjI1NnYtMTQuMjUzek0xNi43NDIgMS4wMDR2MTQuMjU2aDE0LjI1M3YtMTQuMjU2ek0xLjAwNCAxLjAwNHYxNC4yNTZoMTQuMjU2di0xNC4yNTZ6Ij48L3BhdGg+Cjwvc3ZnPg==)](https://github.com/Kiln-AI/Kiln/releases/latest)![Github Downsloads](https://img.shields.io/github/downloads/Yezery/XH_Agent/total) |
+<div align="center"><a href="https://github.com/Yezery/XH_Agent/releases/latest"><img width="220" alt="Download button" src="./doc/download.png"></a> </div>
 
-[<img width="220" alt="Download button" src="./doc/download.png">]([https://github.com/Yezery/XH_Agent/releases/latest) 
+[![PyPI - Version](https://img.shields.io/pypi/v/kiln-ai.svg?logo=pypi&label=PyPI&logoColor=gold)![PyPI - Python Version](https://img.shields.io/pypi/pyversions/kiln-ai.svg?logo=python&label=Python&logoColor=gold)](https://pypi.org/project/kiln-ai/)[![MacOS](https://img.shields.io/badge/MacOS-black?logo=apple)![Windows](https://img.shields.io/badge/Windows-0067b8.svg?logo=data:image/svg%2bxml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4KPHN2ZyBmaWxsPSIjZmZmIiB2aWV3Qm94PSIwIDAgMzIgMzIiIHZlcnNpb249IjEuMSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTE2Ljc0MiAxNi43NDJ2MTQuMjUzaDE0LjI1M3YtMTQuMjUzek0xLjAwNCAxNi43NDJ2MTQuMjUzaDE0LjI1NnYtMTQuMjUzek0xNi43NDIgMS4wMDR2MTQuMjU2aDE0LjI1M3YtMTQuMjU2ek0xLjAwNCAxLjAwNHYxNC4yNTZoMTQuMjU2di0xNC4yNTZ6Ij48L3BhdGg+Cjwvc3ZnPg==)](https://github.com/Kiln-AI/Kiln/releases/latest) <img alt="vue3" src="https://img.shields.io/badge/-Vue3-6DB33F?style=flat-square&logo=vuedotjs&logoColor=white" /><img alt="tailwind" src="https://img.shields.io/badge/-Tailwindcss-00BFFF?style=flat-square&logo=Tailwindcss&logoColor=white" /><img alt="fastapi" src="https://img.shields.io/badge/-FastAPI-6DB33F?style=flat-square&logo=fastapi&logoColor=white" />![Github Downsloads](https://img.shields.io/github/downloads/Yezery/XH_Agent/total)
 
 ## 特点
 
@@ -31,16 +25,16 @@
 - 🤖 **对接多款 Ai 模型**: 对接本地 Ollama、Deepseek、Hunyuan、硅基流动 Ai 平台 等多个国内 AI 大模型.
 - 💰 **开源免费**: 软件免费下载，源码公开.
 
-## TODO
-
-- [ ] 实验报告逆向工程
-- [ ] 对接多模态模型实现图片转文字
-
 ## Demo
 
 在这个例子里我们使用本地 Ollama Ai 快速进行了一个Ai心得的生成和实验报告的编写工作，包括页眉的修改、文件的重命名、文档内容的规范化排版.
 
 <img alt="demo1" src="./doc/demo.gif">
+
+## TODO
+
+- [ ] 实验报告逆向工程
+- [ ] 对接多模态模型实现图片转文字
 
 ## 项目构建 & 开发者
 
