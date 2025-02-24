@@ -10,7 +10,7 @@
   <a href="http://www.zivye.asia/"><strong>网站</strong></a> •
   <a href="https://github.com/Yezery/XH_Agent"><strong>项目仓库</strong></a>
 </p>
-<div align="center"><a href="https://github.com/Yezery/XH_Agent/releases/latest"><img width="220" alt="Download button" src="./doc/download.png"></a> </div>
+<div align="center"><a href="https://github.com/Yezery/XH_Agent/releases/latest"><img width="220" alt="Download button" src="./doc/download.png"></a></div></br>
 
 [![PyPI - Version](https://img.shields.io/pypi/v/kiln-ai.svg?logo=pypi&label=PyPI&logoColor=gold)![PyPI - Python Version](https://img.shields.io/pypi/pyversions/kiln-ai.svg?logo=python&label=Python&logoColor=gold)](https://pypi.org/project/kiln-ai/)[![MacOS](https://img.shields.io/badge/MacOS-black?logo=apple)![Windows](https://img.shields.io/badge/Windows-0067b8.svg?logo=data:image/svg%2bxml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4KPHN2ZyBmaWxsPSIjZmZmIiB2aWV3Qm94PSIwIDAgMzIgMzIiIHZlcnNpb249IjEuMSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTE2Ljc0MiAxNi43NDJ2MTQuMjUzaDE0LjI1M3YtMTQuMjUzek0xLjAwNCAxNi43NDJ2MTQuMjUzaDE0LjI1NnYtMTQuMjUzek0xNi43NDIgMS4wMDR2MTQuMjU2aDE0LjI1M3YtMTQuMjU2ek0xLjAwNCAxLjAwNHYxNC4yNTZoMTQuMjU2di0xNC4yNTZ6Ij48L3BhdGg+Cjwvc3ZnPg==)](https://github.com/Kiln-AI/Kiln/releases/latest) <img alt="vue3" src="https://img.shields.io/badge/-Vue3-6DB33F?style=flat-square&logo=vuedotjs&logoColor=white" /><img alt="tailwind" src="https://img.shields.io/badge/-Tailwindcss-00BFFF?style=flat-square&logo=Tailwindcss&logoColor=white" /><img alt="fastapi" src="https://img.shields.io/badge/-FastAPI-6DB33F?style=flat-square&logo=fastapi&logoColor=white" />![Github Downsloads](https://img.shields.io/github/downloads/Yezery/XH_Agent/total)
 
