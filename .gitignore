@@ -1,0 +1,39 @@
+.env
+__pycache__/
+**/.venv
+.DS_Store
+/official website
+
+
+/app/web_ui/build
+# Logs
+/app/web_ui/logs
+/app/web_ui/*.log
+/app/web_ui/npm-debug.log*
+/app/web_ui/yarn-debug.log*
+/app/web_ui/yarn-error.log*
+/app/web_ui/pnpm-debug.log*
+/app/web_ui/lerna-debug.log*
+
+/app/web_ui/node_modules
+/app/web_ui/.DS_Store
+/app/web_ui/dist
+/app/web_ui/dist-ssr
+/app/web_ui/coverage
+/app/web_ui/*.local
+
+/app/web_ui//cypress/videos/
+/app/web_ui//cypress/screenshots/
+
+# Editor directories and files
+/app/web_ui/.vscode/*
+/app/web_ui/!.vscode/extensions.json
+/app/web_ui/.idea
+/app/web_ui/*.suo
+/app/web_ui/*.ntvs*
+/app/web_ui/*.njsproj
+/app/web_ui/*.sln
+/app/web_ui/*.sw?
+
+/app/web_ui/*.tsbuildinfo
+/app/desktop/build

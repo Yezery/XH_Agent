@@ -1,0 +1,24 @@
+[project]
+name = "desktop"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "fastapi>=0.115.8",
+    "httpx>=0.28.1",
+    "ollama>=0.4.7",
+    "openai>=1.63.0",
+    "pillow>=11.1.0",
+    "pyinstaller",
+    "pystray>=0.19.5",
+    "python-docx>=1.1.2",
+    "python-multipart>=0.0.20",
+    "pyyaml>=6.0.2",
+    "requests>=2.32.3",
+    "uvicorn>=0.34.0",
+]
+
+[tool.uv.sources]
+pyinstaller = { path = "app/desktop/build/bootloader/pyinstaller" }
+
