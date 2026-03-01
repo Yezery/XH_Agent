@@ -146,10 +146,6 @@ WeChat：Y__OOO_O
 
 Email：1172029997@qq.com
 
-### 软件开发不易！很希望这个软件帮助到您！也希望您可以请我喝一杯 ☕️ ！
-
-<img width="220" alt="reward" src="./doc/reward.jpg">
-
 开发许可证
 
  [MIT License](./LICENSE.txt)
