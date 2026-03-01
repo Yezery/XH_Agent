@@ -4,7 +4,7 @@
     </picture>
 </p>
 <h3 align="center">
-    广州新华学院实验报告编写工具  省时、智能、规范!
+    GZXH 实验报告编写工具  省时、智能、规范!
 </h3>
 <p align="center">
   <a href="http://www.zivye.asia/"><strong>网站</strong></a> •
